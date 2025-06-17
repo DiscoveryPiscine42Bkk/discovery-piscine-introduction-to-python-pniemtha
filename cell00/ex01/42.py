@@ -1,1 +1,1 @@
-print(58)
+print(42)
