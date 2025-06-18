@@ -1,3 +1,3 @@
-first_name = input("Hey, what's your first name? : ")
-last_name = input("And your last name? : ")
-print("Well, pleased to meet you,", first_name, last_name)
+first_name = input("Hey, what's your first name? : Piyawan")
+last_name = input("And your last name? : Keawsri")
+print("Well, pleased to meet you,", Piyawan, Keawsri)
